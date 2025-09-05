@@ -1,16 +1,27 @@
 ## Hi there 👋
 
-<!--
-**snehaadak/snehaadak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## It's Sneha Adak
 
-Here are some ideas to get you started:
+✨ **Budding UI Designer & Experienced React Developer**  
+Crafting sleek, intuitive web experiences with a minimalistic touch.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Technical Skills  
+- **Languages:** HTML5, CSS, JavaScript  
+- **Frameworks & Libraries:** React, Redux, TailwindCSS, Bootstrap  
+- **Tools:** VS Code, Git, IntelliJ  
+
+---
+
+### 🌟 Notable Projects  
+- [🎬 Netflix-GPT](https://github.com/snehaadak/netflix-gpt)  
+- [🍴 Food Ordering App](https://github.com/snehaadak/food-ordering-app)  
+- [🎁 Birthday Gift Webpage](https://github.com/snehaadak/birthday-gift-webpage)  
+
+> _Explore more on my [GitHub profile](https://github.com/snehaadak)!_
+
+---
+
+### 🤝 Connect with me  
+[linkedin.com/in/snehaadak](https://www.linkedin.com/in/snehaadak)
