@@ -15,7 +15,7 @@ Crafting sleek, intuitive web experiences with a minimalistic touch.
 ### 🌟 Notable Projects  
 - [🎬 Netflix-GPT](https://github.com/snehaadak/netflix-gpt)  
 - [🍴 Food Ordering App](https://github.com/snehaadak/food-ordering-app)  
-- [🎁 Birthday Gift Webpage](https://github.com/snehaadak/birthday-gift-webpage)  
+- [🎁 Birthday Gift Webpage](https://github.com/snehaadak/Birthday-Webpage-Template)  
 
 > _Explore more on my [GitHub profile](https://github.com/snehaadak)!_
 
