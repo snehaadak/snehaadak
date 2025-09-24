@@ -8,7 +8,7 @@ Crafting sleek, intuitive web experiences with a minimalistic touch.
 ### 🚀 Technical Skills  
 - **Languages:** HTML5, CSS, JavaScript  
 - **Frameworks & Libraries:** React, Redux, TailwindCSS, Bootstrap  
-- **Tools:** VS Code, Git, IntelliJ  
+- **Tools:** VS Code, Git, IntelliJ, Jenkins, Postman  
 
 ---
 
