@@ -2,7 +2,6 @@
 
 ✨ **Budding UI Designer & Experienced React Developer**  
 
-
 Crafting sleek, intuitive web experiences with a minimalistic touch.
 
 ---
