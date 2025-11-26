@@ -1,7 +1,6 @@
 ## Hi there! It's Sneha Adak
 
-✨ **Budding UI Designer & Experienced React Developer** 
-
+✨ **Budding UI Designer & Experienced React Developer**
 Crafting sleek, intuitive web experiences with a minimalistic touch.
 
 ---
